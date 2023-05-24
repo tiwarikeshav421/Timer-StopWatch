@@ -1,0 +1,57 @@
+body{
+    background: #5e125a;
+}
+.container{
+    background-color: white;
+    width: 35%;
+    min-height: 200px;
+    border-radius: 10px;
+    box-shadow: 7px 8px 5px 2px ;
+    position: center;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 15%;
+}
+.container h1{
+    color: #5e125a;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    padding-top: 50px;
+}
+
+
+.buttons{
+    padding-top: 15px;
+    width: 100%;
+    margin-left: 2px;
+}
+.buttons #btn1{
+    color: white;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: transparent;
+    border-radius: 4px;
+    padding: 7px 24px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.buttons #btn2{
+    color: white;
+    background-color: rgb(4, 236, 4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: transparent;
+    border-radius: 4px;
+    padding: 7px 24px;
+    margin-right: 12px;
+    cursor: pointer;
+}
+.buttons #btn3{
+    color: white;
+    background-color: rgb(13, 17, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: transparent;
+    border-radius: 4px;
+    padding: 7px 21px;
+    cursor: pointer;
+}
